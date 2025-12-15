@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "東京",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-15T05:39:57.600558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セプテンバー -東京 version-",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_セプテンバー_-東京_version-_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セプテンバー -東京 version-",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_セプテンバー_-東京_version-_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "鬼",
+      "has_synced": false,
+      "path": "select/03_東京_鬼.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_東京_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/05_東京_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/06_東京_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "GING NANG BOYZ",
+      "has_synced": true,
+      "path": "select/07_東京_GING_NANG_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "銀杏BOYZ",
+      "has_synced": true,
+      "path": "select/08_東京_銀杏BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "Quruli",
+      "has_synced": false,
+      "path": "select/09_東京_Quruli.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/10_東京_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tokyo Nights (東京 Nights)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/11_Tokyo_Nights_(東京_Nights)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "東京 et 巴里(カラオケ) - Bolero Karaoke",
+      "artist": "大川茂伸 feat. Emiri Miyamoto & solita",
+      "has_synced": false,
+      "path": "select/12_東京_et_巴里(カラオケ)_-_Bolero_Karaoke_大川茂伸_feat._Emiri_Miyamoto_&_solita.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "東京 et 巴里",
+      "artist": "Emiri Miyamoto (宮本笑里)",
+      "has_synced": false,
+      "path": "select/13_東京_et_巴里_Emiri_Miyamoto_(宮本笑里).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "Kinoko Teikoku",
+      "has_synced": true,
+      "path": "select/14_東京_Kinoko_Teikoku.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "東京",
+      "artist": "Junko Ohashi",
+      "has_synced": false,
+      "path": "select/15_東京_Junko_Ohashi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_東京_Mr.Children.txt"
+    }
+  ]
+}
